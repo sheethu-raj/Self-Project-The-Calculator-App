@@ -10,3 +10,7 @@ Key Features:
 - Error Handling: Displays `Error` if an invalid expression is entered or evaluated.
 
 The app is designed to be user-friendly, visually appealing, and functional for simple calculations.
+
+Screenshot:
+
+![Screenshot 2024-10-11 005409](https://github.com/user-attachments/assets/a072e1ad-36a9-443c-aff4-1c3472a911ce)
