@@ -9,4 +9,4 @@ Key Features:
 - Clear Functionality: The `Clear` button allows users to reset the input for a new calculation.
 - Error Handling: Displays `Error` if an invalid expression is entered or evaluated.
 
-The app is designed to be user-friendly, visually appealing, and functional for simple calculations. The UI is colorful and responsive, making it a great project for beginners to understand the basics of React state management and event handling.
+The app is designed to be user-friendly, visually appealing, and functional for simple calculations.
